@@ -1,0 +1,13 @@
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\bin\Debug\netstandard2.0\RugbyApp.deps.json
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\bin\Debug\netstandard2.0\RugbyApp.dll
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\bin\Debug\netstandard2.0\ref\RugbyApp.dll
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\bin\Debug\netstandard2.0\RugbyApp.pdb
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\RugbyApp.csprojAssemblyReference.cache
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\RugbyApp.AssemblyInfoInputs.cache
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\RugbyApp.AssemblyInfo.cs
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\RugbyApp.dll
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\ref\RugbyApp.dll
+C:\RugbyAPP\RugbyApp\RugbyApp\RugbyApp\obj\Debug\netstandard2.0\RugbyApp.pdb

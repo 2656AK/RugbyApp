@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RugbyApp.MainPage"
+             BackgroundColor="Black">
+
+
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Rugby World Cup!" TextColor="White"
+           HorizontalOptions="Center" 
+           VerticalOptions="Center" 
+               FontSize="Medium"/>
+
+        <StackLayout/>
+
+        <Image Source="BlackLogo.png" HeightRequest=" 300"/>
+
+
+        <Button Text=" TEAMS" CornerRadius=" 600" TextColor="Black"/>
+        <Button Text=" FIXTURES" CornerRadius=" 600" TextColor="Black"/>
+        <Button Text="UPDATES" CornerRadius="600" TextColor="Black"/>
+        <Button Text="LIVE STREAM" CornerRadius=" 20" TextColor="PaleVioletRed" FontSize="Large"/>
+
+
+
+
+
+        <StackLayout/>
+
+
+
+
+
+    </StackLayout>
+    
+
+ 
+</ContentPage>
